@@ -7,7 +7,7 @@ This is a complete, beginner-friendly Java GUI application built with Swing. It 
 - `src/com/converter/ConverterApp.java` - The main file that builds the user interface (GUI) and handles button clicks.
 - `src/com/converter/ConverterLogic.java` - A separate file that contains the core logic (the math) for converting numbers.
 
-## 📖 Step-by-Step Explanation of the Code
+## 📖 Step-by-Step Explanation of the Code:
 
 ### 1. `ConverterLogic.java` (The Logic)
 This class has two main static methods:
